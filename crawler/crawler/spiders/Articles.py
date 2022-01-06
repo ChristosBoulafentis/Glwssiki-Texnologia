@@ -19,7 +19,7 @@ class ArticlesSpider(scrapy.Spider):
     
     def parse_main_pages(self,response):
         filename = response.url.split("/")[-1] + '.html'
-        with open('artcl/ ' + filename, 'wb') as f:
+        with open('../../../artcl/ ' + filename, 'wb') as f:
             f.write(response.body)
             
     def parse(self, response):

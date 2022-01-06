@@ -3,8 +3,8 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import os
 
-read_directory = '/home/chris/Documents/GitHub/Glwssiki-Texnologia/crawler/crawler/spiders/artcl/'
-write_directory = '/home/chris/Documents/GitHub/Glwssiki-Texnologia/crawler/crawler/spiders/cleared/'
+read_directory = '/home/chris/Documents/GitHub/Glwssiki-Texnologia/artcl/'
+write_directory = '/home/chris/Documents/GitHub/Glwssiki-Texnologia/cleared/'
 for filename in os.listdir(read_directory):
     f = open(read_directory + filename, "r")
 
