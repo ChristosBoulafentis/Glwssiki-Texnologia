@@ -23,19 +23,26 @@ for filename in os.listdir(read_directory):
         tokens = nltk.word_tokenize(data)
         #print(tokens)
         tags = nltk.pos_tag(tokens)
-        #print(tags)
 
         for key, value in dict(word2pos).items():
             if value in stop_words:
                 del word2pos[key]
 
-        for word in tags:
-            if word[0] in word2pos.keys():
-                i = word2pos[word[0]][1]
-                i += 1
-                #word2pos[word[0]] = [word2pos[word[0]][0], i]
+        for word in tokens:
+            key = word[0]
+            inany = False
+            if key in word2pos.keys():
+                for k in range(len(word2pos[key])):
+                    if filename == word2pos[key][k][1]:
+                        i = word2pos[key][k][0]
+                        i += 1
+                        word2pos[key][k] = (i, filename)
+                        inany = True
+                        break
+                    else if inany
+                word2pos[key].append((1, filename))   
             else:
-                word2pos[word[0]] = [word[1], 1, filename]
+                word2pos[key] = [(1, filename)]
 
 
         
