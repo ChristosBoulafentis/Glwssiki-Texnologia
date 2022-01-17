@@ -1,0 +1,5606 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Robert type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </Robert>
+    <E. type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </E.>
+    <Lee type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">10.0</item>
+        </item>
+    </Lee>
+    <key name=":" type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+        <item type="list">
+            <item type="int">10</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">10.0</item>
+        </item>
+    </key>
+    <Virginia type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">10.0</item>
+        </item>
+    </Virginia>
+    <workers type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </workers>
+    <open type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </open>
+    <Civil type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Civil>
+    <War type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </War>
+    <era type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </era>
+    <time type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </time>
+    <capsule type="list">
+        <item type="list">
+            <item type="int">6</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </capsule>
+    <key name="-" type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </key>
+    <BBC type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+    </BBC>
+    <NewsBBC type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </NewsBBC>
+    <HomepageSkip type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </HomepageSkip>
+    <contentAccessibility type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </contentAccessibility>
+    <HelpYour type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </HelpYour>
+    <accountHomeNewsSportReelWorklifeTravelFutureCultureMenuMoreSearchHomeNewsSportReelWorklifeTravelFutureCultureMusicTVWeatherSoundsClose type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </accountHomeNewsSportReelWorklifeTravelFutureCultureMenuMoreSearchHomeNewsSportReelWorklifeTravelFutureCultureMusicTVWeatherSoundsClose>
+    <menuBBC type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </menuBBC>
+    <NewsMenuHomeCoronavirusClimateVideoWorldUKBusinessTechScienceStoriesEntertainment type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </NewsMenuHomeCoronavirusClimateVideoWorldUKBusinessTechScienceStoriesEntertainment>
+    <ArtsMoreHealthWorld type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </ArtsMoreHealthWorld>
+    <News type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </News>
+    <TVIn type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </TVIn>
+    <PicturesReality type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </PicturesReality>
+    <CheckNewsbeatLong type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </CheckNewsbeatLong>
+    <ReadsWorldAfricaAsiaAustraliaEuropeLatin type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </ReadsWorldAfricaAsiaAustraliaEuropeLatin>
+    <AmericaMiddle type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </AmericaMiddle>
+    <EastUS type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </EastUS>
+    <CanadaRobert type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </CanadaRobert>
+    <capsulePublished13 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </capsulePublished13>
+    <hours type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </hours>
+    <agoSharecloseShare type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </agoSharecloseShare>
+    <pageCopy type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </pageCopy>
+    <linkAbout type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </linkAbout>
+    <sharingImage type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </sharingImage>
+    <source type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </source>
+    <key name="," type="list">
+        <item type="list">
+            <item type="int">13</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">13.0</item>
+        </item>
+        <item type="list">
+            <item type="int">34</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">34.0</item>
+        </item>
+    </key>
+    <ReutersA type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ReutersA>
+    <conservation type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </conservation>
+    <team type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </team>
+    <US type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+        <item type="list">
+            <item type="int">8</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </US>
+    <state type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </state>
+    <has type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">7</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">7.0</item>
+        </item>
+    </has>
+    <opened type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </opened>
+    <box type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </box>
+    <containing type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </containing>
+    <Confederate type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </Confederate>
+    <war type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </war>
+    <memorabilia type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </memorabilia>
+    <believed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </believed>
+    <be type="list">
+        <item type="list">
+            <item type="int">6</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </be>
+    <more type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </more>
+    <years type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </years>
+    <old type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </old>
+    <key name="." type="list">
+        <item type="list">
+            <item type="int">17</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">17.0</item>
+        </item>
+        <item type="list">
+            <item type="int">15</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">15.0</item>
+        </item>
+    </key>
+    <contained type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </contained>
+    <newspapers type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </newspapers>
+    <books type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </books>
+    <ammunition type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ammunition>
+    <dated type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </dated>
+    <War.Workers type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </War.Workers>
+    <discovered type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </discovered>
+    <container type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </container>
+    <capital type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </capital>
+    <Richmond type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </Richmond>
+    <finishing type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </finishing>
+    <removal type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </removal>
+    <statue type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </statue>
+    <general type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </general>
+    <E type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </E>
+    <memorial type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </memorial>
+    <was type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </was>
+    <removed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </removed>
+    <protests type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </protests>
+    <following type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </following>
+    <murder type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </murder>
+    <George type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </George>
+    <Floyd type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </Floyd>
+    <Minneapolis type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Minneapolis>
+    <last type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </last>
+    <year type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </year>
+    <Records type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Records>
+    <held type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </held>
+    <Library type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Library>
+    <say type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </say>
+    <buried type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </buried>
+    <dozens type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </dozens>
+    <local type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </local>
+    <residents type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </residents>
+    <contributed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </contributed>
+    <objects type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </objects>
+    <lead type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </lead>
+    <conservator type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </conservator>
+    <Department type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Department>
+    <Historic type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Historic>
+    <Resources type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Resources>
+    <Kate type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Kate>
+    <Ridgway type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </Ridgway>
+    <said type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </said>
+    <contents type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </contents>
+    <design type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </design>
+    <appeared type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </appeared>
+    <match type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </match>
+    <historical type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </historical>
+    <records type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </records>
+    <added type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </added>
+    <were type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </were>
+    <damp type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </damp>
+    <better type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </better>
+    <condition type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </condition>
+    <expected type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </expected>
+    <key name="``" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">9</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">9.0</item>
+        </item>
+    </key>
+    <thought type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </thought>
+    <everything type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </everything>
+    <soup type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </soup>
+    <not type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </not>
+    <so type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </so>
+    <great type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </great>
+    <key name="&apos;&apos;" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">7</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">7.0</item>
+        </item>
+    </key>
+    <Ms type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </Ms>
+    <Ridway type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Ridway>
+    <told type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </told>
+    <reporters.The type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </reporters.The>
+    <host type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </host>
+    <civil type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </civil>
+    <artefacts type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </artefacts>
+    <including type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </including>
+    <flag type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </flag>
+    <have type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">7</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">7.0</item>
+        </item>
+    </have>
+    <been type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </been>
+    <made type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </made>
+    <tree type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </tree>
+    <grew type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </grew>
+    <famed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </famed>
+    <separatist type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </separatist>
+    <General type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </General>
+    <Stonewall type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Stonewall>
+    <Jackson type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Jackson>
+    <original type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </original>
+    <grave type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </grave>
+    <Miniè type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Miniè>
+    <balls type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </balls>
+    <type type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </type>
+    <bullet type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </bullet>
+    <used type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </used>
+    <map type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </map>
+    <city type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </city>
+    <had type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </had>
+    <led type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </led>
+    <speculation type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </speculation>
+    <contain type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </contain>
+    <rare type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </rare>
+    <photo type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </photo>
+    <deceased type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </deceased>
+    <President type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </President>
+    <Abraham type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Abraham>
+    <Lincoln type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </Lincoln>
+    <conservators type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </conservators>
+    <did type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </did>
+    <find type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </find>
+    <printed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </printed>
+    <image type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </image>
+    <issue type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </issue>
+    <Harper type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Harper>
+    <Weekly type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Weekly>
+    <seemed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </seemed>
+    <show type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </show>
+    <figure type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </figure>
+    <grieving type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </grieving>
+    <appear type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </appear>
+    <much-anticipated type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </much-anticipated>
+    <smaller type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </smaller>
+    <found type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </found>
+    <site type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </site>
+    <earlier type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </earlier>
+    <month type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </month>
+    <turned type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </turned>
+    <unofficial type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </unofficial>
+    <placed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </placed>
+    <men type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </men>
+    <built type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </built>
+    <parts type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </parts>
+    <statue.Virginia type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </statue.Virginia>
+    <Governor type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Governor>
+    <Ralph type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Ralph>
+    <Northam type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Northam>
+    <ordered type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ordered>
+    <taken type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </taken>
+    <down type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </down>
+    <September type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </September>
+    <wake type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </wake>
+    <gripped type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </gripped>
+    <is type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+        <item type="list">
+            <item type="int">7</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">7.0</item>
+        </item>
+    </is>
+    <controversial type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </controversial>
+    <celebrate type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </celebrate>
+    <memorials type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </memorials>
+    <symbols type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </symbols>
+    <southern type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </southern>
+    <pride type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </pride>
+    <many type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </many>
+    <others type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </others>
+    <deride type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </deride>
+    <daily type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">7</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">7.0</item>
+        </item>
+    </daily>
+    <reminders type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </reminders>
+    <America type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </America>
+    <history type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </history>
+    <racism type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </racism>
+    <oppression type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </oppression>
+    <video type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </video>
+    <playedTo type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </playedTo>
+    <play type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </play>
+    <need type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </need>
+    <enable type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </enable>
+    <JavaScript type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </JavaScript>
+    <browser.Media type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </browser.Media>
+    <caption type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </caption>
+    <monuments type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </monuments>
+    <are type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+    </are>
+    <being type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </being>
+    <key name="(" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </key>
+    <July type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </July>
+    <key name=")" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </key>
+    <Related type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Related>
+    <TopicsVirginiaRemoval type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </TopicsVirginiaRemoval>
+    <memorialsMore type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </memorialsMore>
+    <storyVirginia type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </storyVirginia>
+    <removes type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </removes>
+    <contentious type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </contentious>
+    <statuePublished9 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </statuePublished9>
+    <SeptemberConfederate type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </SeptemberConfederate>
+    <artPublished8 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </artPublished8>
+    <DecemberBiden type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </DecemberBiden>
+    <revokes type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </revokes>
+    <Trump type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Trump>
+    <order type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </order>
+    <punish type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </punish>
+    <vandalsPublished15 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </vandalsPublished15>
+    <MayTop type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </MayTop>
+    <StoriesUS type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </StoriesUS>
+    <reports type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">5.0</item>
+        </item>
+    </reports>
+    <Covid type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">10</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">10.0</item>
+        </item>
+    </Covid>
+    <record type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">8</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </record>
+    <Europe type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">8</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </Europe>
+    <cases type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">17</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">17.0</item>
+        </item>
+    </cases>
+    <soarPublished3 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </soarPublished3>
+    <agoLive type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </agoLive>
+    <plans type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </plans>
+    <cut type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </cut>
+    <isolation type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </isolation>
+    <period type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </period>
+    <EnglandHong type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </EnglandHong>
+    <Kong type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Kong>
+    <news type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </news>
+    <website type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </website>
+    <shut type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </shut>
+    <police type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </police>
+    <raidPublished1 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </raidPublished1>
+    <hour type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </hour>
+    <agoFeaturesHow type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </agoFeaturesHow>
+    <going type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">3.0</item>
+        </item>
+    </going>
+    <grand type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </grand>
+    <COP26 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </COP26>
+    <commitments type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </commitments>
+    <key name="?" type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </key>
+    <photos type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </photos>
+    <captured type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </captured>
+    <world type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </world>
+    <key name="2021Fighting" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <learn type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </learn>
+    <Venezuela type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Venezuela>
+    <VideoFighting type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </VideoFighting>
+    <VenezuelaThe type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </VenezuelaThe>
+    <mystery type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </mystery>
+    <Queen type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Queen>
+    <birthplaceMusic type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </birthplaceMusic>
+    <preview type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </preview>
+    <biggest type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </biggest>
+    <releases type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </releases>
+    <tours type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </tours>
+    <filmsWhy type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </filmsWhy>
+    <Mauritius type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Mauritius>
+    <losing type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </losing>
+    <seashellsBBC type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </seashellsBBC>
+    <Culture type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Culture>
+    <rich type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </rich>
+    <longer type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </longer>
+    <glamorousWatch type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </glamorousWatch>
+    <Working type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Working>
+    <piece type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </piece>
+    <bread type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </bread>
+    <key name="‘" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <tell type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </tell>
+    <deaf type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </deaf>
+    <father type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </father>
+    <dying type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </dying>
+    <key name="’" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <Elsewhere type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Elsewhere>
+    <BBCA type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </BBCA>
+    <beginner type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </beginner>
+    <guide type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </guide>
+    <identifying type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </identifying>
+    <birdsongHow type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </birdsongHow>
+    <recognise type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </recognise>
+    <sound type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </sound>
+    <alone type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </alone>
+    <classical type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </classical>
+    <masterpieces type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </masterpieces>
+    <contemporary type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </contemporary>
+    <jazz type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </jazz>
+    <key name="!" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <Laura type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Laura>
+    <Mvula type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Mvula>
+    <plays type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </plays>
+    <favourite type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </favourite>
+    <music type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </music>
+    <Read1US type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Read1US>
+    <soar2US type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </soar2US>
+    <teen type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </teen>
+    <shot type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </shot>
+    <dead type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </dead>
+    <died type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </died>
+    <mother type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </mother>
+    <arms3Cristiano type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </arms3Cristiano>
+    <Ronaldo type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Ronaldo>
+    <divides type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </divides>
+    <opinion type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </opinion>
+    <India4Alexa type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </India4Alexa>
+    <tells type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </tells>
+    <girl type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </girl>
+    <touch type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </touch>
+    <live type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </live>
+    <plug type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </plug>
+    <penny5Founding type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </penny5Founding>
+    <commander type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </commander>
+    <Seal type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Seal>
+    <Team type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Team>
+    <Six type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Six>
+    <dies type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </dies>
+    <aged type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </aged>
+    <birthplace8Hong type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </birthplace8Hong>
+    <raid9US type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </raid9US>
+    <Virginia10The type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Virginia10The>
+    <tale type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </tale>
+    <key name="&apos;un-extinct" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <key name="&apos;" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <fishBBC type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </fishBBC>
+    <ServicesOn type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </ServicesOn>
+    <mobileOn type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </mobileOn>
+    <smart type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </smart>
+    <speakersGet type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </speakersGet>
+    <alertsContact type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </alertsContact>
+    <NewsHomeNewsSportReelWorklifeTravelFutureCultureMusicTVWeatherSoundsTerms type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </NewsHomeNewsSportReelWorklifeTravelFutureCultureMusicTVWeatherSoundsTerms>
+    <BBCPrivacy type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </BBCPrivacy>
+    <PolicyCookiesAccessibility type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </PolicyCookiesAccessibility>
+    <HelpParental type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </HelpParental>
+    <GuidanceContact type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </GuidanceContact>
+    <BBCGet type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </BBCGet>
+    <Personalised type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Personalised>
+    <NewslettersWhy type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </NewslettersWhy>
+    <trust type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </trust>
+    <BBCAdvertise type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </BBCAdvertise>
+    <usAdChoices type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </usAdChoices>
+    <key name="/" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <Do type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Do>
+    <Not type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Not>
+    <Sell type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Sell>
+    <key name="Info©" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </key>
+    <responsible type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </responsible>
+    <content type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </content>
+    <external type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </external>
+    <sites type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </sites>
+    <Read type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </Read>
+    <approach type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </approach>
+    <linking type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814162.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">1.0</item>
+        </item>
+    </linking>
+    <infections type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">10.0</item>
+        </item>
+    </infections>
+    <Omicron type="list">
+        <item type="list">
+            <item type="int">9</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">18.0</item>
+        </item>
+    </Omicron>
+    <also type="list">
+        <item type="list">
+            <item type="int">6</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">12.0</item>
+        </item>
+    </also>
+    <soar type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </soar>
+    <CanadaCovid type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </CanadaCovid>
+    <sharingRelated type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </sharingRelated>
+    <TopicsCoronavirus type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </TopicsCoronavirus>
+    <pandemicImage type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </pandemicImage>
+    <Getty type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Getty>
+    <ImagesImage type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ImagesImage>
+    <France type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </France>
+    <reported type="list">
+        <item type="list">
+            <item type="int">8</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">16.0</item>
+        </item>
+    </reported>
+    <highest type="list">
+        <item type="list">
+            <item type="int">6</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">12.0</item>
+        </item>
+    </highest>
+    <ever type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </ever>
+    <number type="list">
+        <item type="list">
+            <item type="int">10</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">20.0</item>
+        </item>
+    </number>
+    <new type="list">
+        <item type="list">
+            <item type="int">8</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">16.0</item>
+        </item>
+    </new>
+    <Tuesday type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </Tuesday>
+    <infectionsThe type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </infectionsThe>
+    <several type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </several>
+    <European type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </European>
+    <countries type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </countries>
+    <rises type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </rises>
+    <pandemic type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </pandemic>
+    <began type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </began>
+    <variant type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </variant>
+    <spreads.More type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </spreads.More>
+    <recorded type="list">
+        <item type="list">
+            <item type="int">5</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">10.0</item>
+        </item>
+    </recorded>
+    <Monday type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Monday>
+    <health type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </health>
+    <officials type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </officials>
+    <said.France type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </said.France>
+    <Italy type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </Italy>
+    <Greece type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Greece>
+    <Portugal type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Portugal>
+    <England type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </England>
+    <numbers type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </numbers>
+    <infections.Officials type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </infections.Officials>
+    <high type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </high>
+    <figures type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </figures>
+    <due type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </due>
+    <part type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </part>
+    <reporting type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </reporting>
+    <delays type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </delays>
+    <Christmas type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </Christmas>
+    <period.Studies type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </period.Studies>
+    <suggest type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </suggest>
+    <milder type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </milder>
+    <previously type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </previously>
+    <dominant type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </dominant>
+    <Delta type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Delta>
+    <fears type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </fears>
+    <remain type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </remain>
+    <sheer type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </sheer>
+    <stemming type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </stemming>
+    <highly type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </highly>
+    <infectious type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </infectious>
+    <overwhelm type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </overwhelm>
+    <hospitals.The type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </hospitals.The>
+    <World type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </World>
+    <Health type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </Health>
+    <Organization type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </Organization>
+    <warned type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </warned>
+    <risk type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </risk>
+    <posed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </posed>
+    <remains type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </remains>
+    <very type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </very>
+    <Poland type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Poland>
+    <Wednesday type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Wednesday>
+    <Covid-related type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Covid-related>
+    <deaths type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </deaths>
+    <fourth type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </fourth>
+    <wave type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </wave>
+    <three-quarters type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </three-quarters>
+    <victims type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </victims>
+    <unvaccinated.EXPLAINER type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </unvaccinated.EXPLAINER>
+    <up type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </up>
+    <key name="%" type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </key>
+    <less type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </less>
+    <likely type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </likely>
+    <hospital type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </hospital>
+    <careIN type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </careIN>
+    <CHARTS type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </CHARTS>
+    <Tracking type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Tracking>
+    <pandemicIn type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </pandemicIn>
+    <Centers type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Centers>
+    <Disease type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Disease>
+    <Control type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Control>
+    <Prevention type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Prevention>
+    <CDC type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </CDC>
+    <rose type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </rose>
+    <December type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </December>
+    <far type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </far>
+    <agency.The type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agency.The>
+    <data type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </data>
+    <tracker type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </tracker>
+    <says type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </says>
+    <media type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </media>
+    <report type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </report>
+    <seven-day type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </seven-day>
+    <average type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </average>
+    <rise type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </rise>
+    <now type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </now>
+    <level type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </level>
+    <January type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </January>
+    <spokeswoman type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </spokeswoman>
+    <Politico type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Politico>
+    <latest type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </latest>
+    <infection type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </infection>
+    <overestimated type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </overestimated>
+    <lags type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </lags>
+    <testing type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </testing>
+    <test type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </test>
+    <centre type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </centre>
+    <closures type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </closures>
+    <adding type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </adding>
+    <case type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </case>
+    <become type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </become>
+    <stable type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </stable>
+    <key name=".The" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </key>
+    <agency type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agency>
+    <expanded type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </expanded>
+    <travel type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </travel>
+    <warnings type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </warnings>
+    <Malta type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Malta>
+    <Moldova type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Moldova>
+    <Sweden type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Sweden>
+    <list type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </list>
+    <poses type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </poses>
+    <infection.Travellers type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </infection.Travellers>
+    <asked type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </asked>
+    <avoid type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </avoid>
+    <Level type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Level>
+    <criteria type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </criteria>
+    <destination type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </destination>
+    <receives type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </receives>
+    <people.US type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </people.US>
+    <disease type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </disease>
+    <expert type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </expert>
+    <Amesh type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Amesh>
+    <Adalja type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Adalja>
+    <get type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </get>
+    <round type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </round>
+    <protection type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </protection>
+    <afforded type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </afforded>
+    <vaccines type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </vaccines>
+    <affect type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </affect>
+    <anybody type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </anybody>
+    <So type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </So>
+    <see type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </see>
+    <key type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </key>
+    <keep type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </keep>
+    <away type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </away>
+    <high-risk type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </high-risk>
+    <people type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </people>
+    <key name="..." type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </key>
+    <key name="&apos;re" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </key>
+    <really type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </really>
+    <focus type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </focus>
+    <severe type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </severe>
+    <hospitalisations type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </hospitalisations>
+    <Image type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Image>
+    <ReutersImage type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ReutersImage>
+    <Sharon type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Sharon>
+    <Catron type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Catron>
+    <Sharp type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Sharp>
+    <waits type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </waits>
+    <long type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </long>
+    <queue type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </queue>
+    <Memphis type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Memphis>
+    <TennesseeAccording type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </TennesseeAccording>
+    <published type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </published>
+    <variants type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </variants>
+    <week type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </week>
+    <Americas.On type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Americas.On>
+    <cases.French type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </cases.French>
+    <Minister type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </Minister>
+    <Olivier type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Olivier>
+    <Véran type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Véran>
+    <suggests type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </suggests>
+    <start type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </start>
+    <French type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </French>
+    <Hospital type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Hospital>
+    <Federation type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Federation>
+    <most type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </most>
+    <difficult type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </difficult>
+    <weeks type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </weeks>
+    <yet type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </yet>
+    <come type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </come>
+    <key name=".Prime" type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </key>
+    <Jean type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Jean>
+    <Castex type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Castex>
+    <announced type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </announced>
+    <restrictions type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </restrictions>
+    <country type="list">
+        <item type="list">
+            <item type="int">3</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">6.0</item>
+        </item>
+    </country>
+    <booster type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </booster>
+    <rollout type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </rollout>
+    <ramped type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ramped>
+    <having type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </having>
+    <received type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </received>
+    <date.A type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </date.A>
+    <other type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </other>
+    <Infections type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Infections>
+    <topped type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </topped>
+    <hitting type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </hitting>
+    <bringing type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </bringing>
+    <total type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </total>
+    <casesGreece type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </casesGreece>
+    <Thanos type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Thanos>
+    <Plevris type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Plevris>
+    <called type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </called>
+    <calm type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </calm>
+    <casesHealth type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </casesHealth>
+    <authorities type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </authorities>
+    <Full type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Full>
+    <UK-wide type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </UK-wide>
+    <unavailable type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </unavailable>
+    <periodWhile type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </periodWhile>
+    <cities type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </cities>
+    <Paris type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Paris>
+    <London type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </London>
+    <Berlin type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Berlin>
+    <cancelled type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </cancelled>
+    <official type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </official>
+    <New type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </New>
+    <Year type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Year>
+    <celebrations type="list">
+        <item type="list">
+            <item type="int">2</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">4.0</item>
+        </item>
+    </celebrations>
+    <governments type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </governments>
+    <willing type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </willing>
+    <bring type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </bring>
+    <nationwide type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </nationwide>
+    <restrictions.People type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </restrictions.People>
+    <use type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </use>
+    <common type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </common>
+    <sense type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </sense>
+    <Spanish type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Spanish>
+    <Madrid type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Madrid>
+    <go type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </go>
+    <ahead type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </ahead>
+    <cap type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </cap>
+    <attendees type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </attendees>
+    <Puerta type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Puerta>
+    <del type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </del>
+    <Sol type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Sol>
+    <square type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </square>
+    <meanwhile type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </meanwhile>
+    <banned type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </banned>
+    <outdoor type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </outdoor>
+    <events type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </events>
+    <closed type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </closed>
+    <nightclubs type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </nightclubs>
+    <there type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </there>
+    <private type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </private>
+    <gatherings type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </gatherings>
+    <boosters type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </boosters>
+    <questions type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </questions>
+    <answeredRelated type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </answeredRelated>
+    <TopicsWorld type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </TopicsWorld>
+    <FranceOmicron type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </FranceOmicron>
+    <variantUnited type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </variantUnited>
+    <StatesCoronavirus type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </StatesCoronavirus>
+    <pandemicMore type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </pandemicMore>
+    <storyCovid type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </storyCovid>
+    <halved type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </halved>
+    <agencyPublished1 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agencyPublished1>
+    <day type="list">
+        <item type="list">
+            <item type="int">4</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">8.0</item>
+        </item>
+    </day>
+    <agoFrance type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agoFrance>
+    <announces type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </announces>
+    <tighter type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </tighter>
+    <restrictionsPublished1 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </restrictionsPublished1>
+    <agoAirport type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agoAirport>
+    <bars type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </bars>
+    <Britons type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Britons>
+    <Austrian type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Austrian>
+    <rulesPublished1 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </rulesPublished1>
+    <agoOne type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agoOne>
+    <tests type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </tests>
+    <Ireland type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </Ireland>
+    <positivePublished1 type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </positivePublished1>
+    <agoTop type="list">
+        <item type="list">
+            <item type="int">1</item>
+            <item type="str">world-59814661.html.txt</item>
+            <item type="float">2.0</item>
+        </item>
+    </agoTop>
+</root>

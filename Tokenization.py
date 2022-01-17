@@ -3,12 +3,16 @@ from nltk.tokenize import word_tokenize
 from collections import defaultdict
 from collections import Counter
 import os
+from dicttoxml import dicttoxml
 #############################################################################
 
 
 
 
 #############################################################################
+
+path, dirs, files = next(os.walk("cleared/"))
+file_count = len(files)
 
 read_directory = '/home/chris/Documents/GitHub/Glwssiki-Texnologia/cleared/'
 
@@ -31,18 +35,33 @@ for filename in os.listdir(read_directory):
                     if filename == word2pos[word][k][1]:
                         i = word2pos[word][k][0]
                         i += 1
-                        word2pos[word][k] = (i, filename)
+                        word2pos[word][k] = [i, filename]
                         inany = True
                         #break
                 if inany == False:
-                    word2pos[word].append((1, filename))   
+                    word2pos[word].append([1, filename])   
             else:
-                word2pos[word] = [(1, filename)]
+                word2pos[word] = [[1, filename]]
 
 for key in word2pos.copy():
     if {nltk.pos_tag([str(key)])[0][1]} in stop_words:
         del word2pos[key]
 
-print(word2pos)
 
-#print(list(word2pos.values())[0])
+
+for word in word2pos.keys():
+    for item in word2pos[word]:
+        weight = item[0] * file_count / len(word2pos[word])
+        item.append(weight)
+
+#print(word2pos)
+
+
+xml = dicttoxml(word2pos)
+#print(xml)
+
+xml_decode = xml.decode()
+ 
+xmlfile = open("dict.xml", "w")
+xmlfile.write(xml_decode)
+xmlfile.close()
