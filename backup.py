@@ -1,4 +1,3 @@
-from xml.dom.minidom import Document
 import nltk
 from nltk.tokenize import word_tokenize
 from collections import defaultdict
@@ -28,27 +27,23 @@ for filename in os.listdir(read_directory):
         tokens = nltk.word_tokenize(data)
         #print(tokens)
         #tags = nltk.pos_tag(["tokens"])
-        word2pos['lemma'] = {'@name': (), 'document_id': (), 'times': ()}
 
-        print("AAAAAAAAAA",word2pos[word]['document'])
         for word in tokens:
             inany = False
-            if word in word2pos['lemma']['@name']:
-                for k in word2pos[word]['document']:
-                    if filename == k['@id']:
-                        i = k['times']
+            if word in word2pos.keys():
+                for k in range(len(word2pos[word])):
+                    if filename == word2pos[word][k][1]:
+                        i = word2pos[word][k][0]
                         i += 1
-                        k = {'@id': filename, 'times': 1}
+                        word2pos[word][k] = [i, filename]
                         inany = True
+                        #break
                 if inany == False:
-                    word2pos[word]['document'].append([1, filename])   
+                    word2pos[word].append([1, filename])   
             else:
-                word2pos['lemma'] = {'@name': word, 'document': [{'@id': filename, 'times': 1}]}
-                #word2pos[word] = [[1, filename]]
+                word2pos[word] = [[1, filename]]
 
-
-print(word2pos)
-'''for key in word2pos.copy():
+for key in word2pos.copy():
     if {nltk.pos_tag([str(key)])[0][1]} in stop_words:
         del word2pos[key]
 
@@ -70,4 +65,3 @@ xml_decode = xml.decode()
 xmlfile = open("dict.xml", "w")
 xmlfile.write(xml_decode)
 xmlfile.close()
-'''
